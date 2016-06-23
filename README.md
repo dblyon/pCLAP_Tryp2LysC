@@ -1,7 +1,7 @@
 # Readme for pCLAP_Tryp2LysC
 
 This is a command-line script to map tryptic peptides to Lys-C peptides.
-The program expects a FASTA-file and a "peptides.txt" file from <a href="http://www.biochem.mpg.de/5111795/maxquant" title="MaxQuant"> </a> as input,
+The program expects a FASTA-file and a "peptides.txt" file from <a href="http://www.biochem.mpg.de/5111795/maxquant">MaxQuant</a> as input,
 and will generate two tab delimited text files as output. The first results file, 
 definable using the "-lysc" option, generates the LysC peptide sequences as well as start and 
 end positions within given proteins. The second results file, definable using the "-ptm" 
