@@ -24,7 +24,7 @@ e.g. type the following command in the terminal to see options.
 ## example for Windows
 <code>python tryptic2LysC.py -fasta C:\Directory\FastaFileName.fasta -mq C:\Directory\MaxQuant_peptides.txt -lysc C:\Directory\Results_LYSC.txt -ptm C:\Directory\Results_PTM.txt</code>
 
-## Support
+# Support
 feel free to contact <david.lyon@cpr.ku.dk> for help
 
 
