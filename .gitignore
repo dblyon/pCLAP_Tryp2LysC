@@ -1,0 +1,9 @@
+.Rhistory
+/.idea
+/.ipynb_checkpoints
+*.txt
+*.pdf
+*.pyc
+*.png
+*.sqlite-journal
+
