@@ -4,7 +4,7 @@ The program expects a FASTA-file and a "peptides.txt" file from <a href="http://
 and will generate two tab delimited text files as output. The first results file, 
 definable using the "-lysc" option, generates the LysC peptide sequences as well as start and 
 end positions within given proteins. The second results file, definable using the "-ptm" 
-option, is used as input for Perseus <a href="http://www.biochem.mpg.de/5111795/maxquant">Perseus</a>.
+option, is used as input for <a href="http://www.biochem.mpg.de/5111795/maxquant">Perseus</a>.
 
 # Citation
 Publication will be referenced here.
@@ -23,4 +23,11 @@ e.g. type the following command in the terminal to see options.
 
 ## example for Windows
 <code>python tryptic2LysC.py -fasta C:\Directory\FastaFileName.fasta -mq C:\Directory\MaxQuant_peptides.txt -lysc C:\Directory\Results_LYSC.txt -ptm C:\Directory\Results_PTM.txt</code>
+
+## Support
+feel free to contact <david.lyon@cpr.ku.dk> for help
+
+
+
+
 
