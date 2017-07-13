@@ -7,9 +7,12 @@ end positions within given proteins. The second results file, definable using th
 option, is used as input for <a href="http://www.biochem.mpg.de/5111795/maxquant">Perseus</a>.
 
 # Citation
-Publication will be referenced here.
+Mullari M, Lyon D, Jensen LJ, Nielsen ML, Specifying RNA-Binding Regions in Proteins by Peptide Cross-Linking and Affinity Purification. Journal of Proteome Research, 2017.
+DOI: 10.1021/acs.jproteome.7b00042
+https://www.ncbi.nlm.nih.gov/pubmed/28648085
 
 # Prerequisites
+This script can be run on any operating system (Windows, Mac OSX, Linux) running Python.
     - Python 2.x
     - Python packages: numpy, pandas
 
@@ -25,7 +28,7 @@ e.g. type the following command in the terminal to see options.
 <code>python tryptic2LysC.py -fasta C:\Directory\FastaFileName.fasta -mq C:\Directory\MaxQuant_peptides.txt -lysc C:\Directory\Results_LYSC.txt -ptm C:\Directory\Results_PTM.txt</code>
 
 # Support
-feel free to contact <david.lyon@cpr.ku.dk> for help
+feel free to contact <david.lyon@cpr.ku.dk> for help!
 
 
 
